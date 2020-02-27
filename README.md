@@ -1,2 +1,2 @@
 # todolist
-Simple todolist 
+Simple to do list 
